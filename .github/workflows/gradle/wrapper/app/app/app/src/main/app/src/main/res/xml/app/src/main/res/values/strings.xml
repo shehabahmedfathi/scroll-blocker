@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ScrollPause</string>
+    <string name="accessibility_service_label">ScrollPause Scroll Detector</string>
+    <string name="accessibility_service_description">Detects rapid upward scrolling in Instagram, YouTube, and Snapchat to display a 5-second mindful pause overlay.</string>
+    <string name="main_subtitle">Detects 5 rapid upward scrolls within 15 seconds on Instagram, YouTube, and Snapchat, then triggers a 5-second mindful pause overlay.</string>
+    <string name="btn_accessibility_settings">Open Accessibility Settings</string>
+    <string name="btn_overlay_settings">Open Overlay Settings</string>
+    <string name="btn_preview_overlay">Preview 5s Overlay</string>
+    <string name="status_accessibility_enabled">Accessibility Service: Enabled</string>
+    <string name="status_accessibility_disabled">Accessibility Service: Disabled</string>
+    <string name="status_overlay_granted">Overlay Permission: Granted</string>
+    <string name="status_overlay_denied">Overlay Permission: Not Granted</string>
+    <string name="overlay_title">Take a Breath</string>
+    <string name="overlay_resuming_in">Resuming in</string>
+</resources>
